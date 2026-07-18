@@ -1,2 +1,1 @@
-# EdxLibrary(LMS)
 # EdxLibrary-LMS
